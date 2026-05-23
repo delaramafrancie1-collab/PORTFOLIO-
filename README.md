@@ -1,7 +1,8 @@
 # Francie Dela Rama 
 
-**' Coding•Editing '**
+**'Coding•Editing'**
 
 **Tiniguiban Puerto Princesa,Palawan**
 
-I'M FRANCIE DELA RAMA, THIS IS MY PORTFOLIO REQUIREMENT IN ENGINEERING PHYSICS2
+
+*I'M FRANCIE DELA RAMA, THIS IS MY PORTFOLIO REQUIREMENT IN ENGINEERING PHYSICS2*
