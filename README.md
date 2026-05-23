@@ -1,6 +1,4 @@
 
-
-
 # Francie Dela Rama
 
 ## About Me
@@ -40,4 +38,4 @@ My goal is to improve my knowledge in **technology, coding, and engineering conc
 ## Educational Portfolio
 This repository contains my activities, projects, and requirements for **Engineering Physics 2**.
 
-Thank you for visiting my portfolio! ✨
+Thank you for visiting my portfolio! 
