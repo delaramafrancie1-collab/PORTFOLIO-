@@ -13,7 +13,7 @@ I am interested in **Coding, Editing, Design, and Learning Technology**.
 | Category | Details |
 |----------|----------|
 | Name | Francie Dela Rama |
-| Address | Tiniguiban, Puerto Princesa City, Palawan |
+| Address | Tiniguiban Puerto Princesa City, Palawan |
 | Course | Electronic Engineering |
 | Skills | Coding, Editing, Communication |
 | Hobbies | Designing, Learning, Creativity |
