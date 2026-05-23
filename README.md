@@ -2,7 +2,7 @@
 # Francie Dela Rama
 
 ## About Me
-Hello! I am **Francie Dela Rama**, a student from **Tiniguiban, Puerto Princesa City, Palawan**.
+Hello! I am **Francie Dela Rama**, a student from **Poblacion Taytay, Palawan**.
 
 This portfolio is my requirement for **Engineering Physics 2**.  
 I am interested in **Coding, Editing, Design, and Learning Technology**.
